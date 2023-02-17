@@ -38,7 +38,7 @@ public class C02_XpathText {
             System.out.println("Test failled ");
         }
 
-        Thread.sleep(30);
+
         driver.close();
 
 
