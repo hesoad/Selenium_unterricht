@@ -25,7 +25,7 @@ public class C02_DriverMethotdari {
 
         WebDriver driver= new ChromeDriver();
 
-        driver.get("http://wisequarter.com");
+        driver.get("https://wisequarter.com");
         Thread.sleep(3000);
         driver.close();
 
