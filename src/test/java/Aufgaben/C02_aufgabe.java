@@ -47,7 +47,7 @@ public class C02_aufgabe {
 
 
         WebElement sonuc= driver.findElement(By.xpath("//span[@id='answer']"));
-        sonuc.getText();
+        System.out.println(sonuc.getText());
 
         Thread.sleep(3000);
         driver.close();
