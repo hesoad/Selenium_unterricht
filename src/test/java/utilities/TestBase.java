@@ -1,4 +1,4 @@
-package utilitiles;
+package utilities;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
 import org.junit.Before;
@@ -17,5 +17,11 @@ public class TestBase {
     @After
     public void teardown(){
         driver.close();
+    }
+    public void bekle(int saniye){
+        try {
+            Thread.sleep(saniye*1000);
+        } catch (InterruptedException e) {
+        }
     }
 }

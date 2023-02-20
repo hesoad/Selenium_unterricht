@@ -1,7 +1,6 @@
-package utilitiles;
+package utilities;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -19,6 +18,13 @@ public class TestBaseClass {
     public static void teardown(){
         driver.close();
     }
+    public void bekle(int saniye){
+        try {
+            Thread.sleep(saniye*1000);
+        } catch (InterruptedException e) {
+        }
+    }
+
 }
 
 
