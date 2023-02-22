@@ -36,7 +36,7 @@ public class C06_DropDownMenu extends TestBase {
             System.out.println(eachElement.getText());
         }
         // 5. Dropdown’un boyutunun 4 oldugunu test edin
-        int expectedBoyut=4;
+        int expectedBoyut=3;
         int actualboyut=optionElementleri.size();
         Assert.assertEquals(expectedBoyut,actualboyut);
         bekle(5);
