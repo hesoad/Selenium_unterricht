@@ -9,7 +9,7 @@ public class C07_FileExistsTesti {
         // Calistigimiz package icerisinde
         // text.txt isimli bir file oldugunu test edin
         String dinamikDosyaYolu = System.getProperty("user.dir")
-                +"src/test/java/daye07_actionsClass_fileTestleri/text.text";
+                +"/src/test/java/daye07_actionsClass_fileTestleri/text.text";
         Assert.assertTrue(Files.exists(Paths.get(dinamikDosyaYolu)));
     }
 }
