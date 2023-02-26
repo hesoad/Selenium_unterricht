@@ -1,4 +1,4 @@
-package daye03_xpath_ccSelector;
+package day03_xpath_ccSelector;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

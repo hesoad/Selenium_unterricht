@@ -1,11 +1,10 @@
-package daye05_asseritons_dropDownMenu;
+package day05_asseritons_dropDownMenu;
 
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-import org.w3c.dom.stylesheets.LinkStyle;
 import utilities.TestBase;
 
 import java.util.List;

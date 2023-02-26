@@ -1,11 +1,10 @@
-package daye02_driverManagerMethodlari;
+package day02_driverManagerMethodlari;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.time.Duration;
 

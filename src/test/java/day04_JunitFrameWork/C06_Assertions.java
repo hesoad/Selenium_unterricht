@@ -1,4 +1,4 @@
-package daye04_JunitFrameWork;
+package day04_JunitFrameWork;
 
 import org.junit.Assert;
 import org.junit.Test;

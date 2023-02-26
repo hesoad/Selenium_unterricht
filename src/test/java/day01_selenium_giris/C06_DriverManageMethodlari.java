@@ -1,4 +1,4 @@
-package daye01_selenium_giris;
+package day01_selenium_giris;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

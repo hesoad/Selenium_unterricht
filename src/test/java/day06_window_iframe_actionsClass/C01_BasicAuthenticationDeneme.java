@@ -1,4 +1,4 @@
-package daye06_window_iframe_actionsClass;
+package day06_window_iframe_actionsClass;
 
 import org.junit.Assert;
 import org.junit.Test;

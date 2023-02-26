@@ -1,4 +1,4 @@
-package daye04_JunitFrameWork;
+package day04_JunitFrameWork;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;

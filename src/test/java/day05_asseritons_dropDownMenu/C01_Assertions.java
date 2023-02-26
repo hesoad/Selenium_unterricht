@@ -1,7 +1,6 @@
-package daye05_asseritons_dropDownMenu;
+package day05_asseritons_dropDownMenu;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.checkerframework.checker.units.qual.A;
 import org.junit.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

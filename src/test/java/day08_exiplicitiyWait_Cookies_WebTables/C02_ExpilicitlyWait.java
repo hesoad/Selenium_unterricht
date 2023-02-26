@@ -26,6 +26,7 @@ public class C02_ExpilicitlyWait {
         WebElement aramaKutusu= driver.findElement(By.id("twotabsearchtextbox"));
         // C- wait objesini kullanarak istenen gorev icin bekle
         wait.until(ExpectedConditions.elementToBeClickable(aramaKutusu));
+
         // Nutella icin arama yapin
         aramaKutusu.sendKeys("Nutella" + Keys.ENTER);
         Thread.sleep(5000);

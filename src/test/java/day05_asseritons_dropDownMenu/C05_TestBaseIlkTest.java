@@ -1,4 +1,4 @@
-package daye05_asseritons_dropDownMenu;
+package day05_asseritons_dropDownMenu;
 
 import org.junit.Assert;
 import org.junit.Test;

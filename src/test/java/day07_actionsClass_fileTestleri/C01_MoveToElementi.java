@@ -1,4 +1,4 @@
-package daye07_actionsClass_fileTestleri;
+package day07_actionsClass_fileTestleri;
 
 import org.junit.Assert;
 import org.junit.Test;

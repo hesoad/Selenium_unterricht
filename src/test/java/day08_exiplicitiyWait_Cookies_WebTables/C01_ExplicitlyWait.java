@@ -43,7 +43,7 @@ import java.time.Duration;
                     wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//p[@id='message']")));
             Assert.assertTrue(itsGoneElementi.isDisplayed());
             driver.close();
-        }
+
     }
 
 }

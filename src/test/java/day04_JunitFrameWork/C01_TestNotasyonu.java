@@ -1,7 +1,6 @@
-package daye04_JunitFrameWork;
+package day04_JunitFrameWork;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.apache.commons.lang3.builder.ToStringExclude;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

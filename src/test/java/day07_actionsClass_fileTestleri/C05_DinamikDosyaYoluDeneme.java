@@ -1,6 +1,5 @@
-package daye07_actionsClass_fileTestleri;
+package day07_actionsClass_fileTestleri;
 
-import org.apache.hc.core5.util.Asserts;
 import org.junit.Assert;
 import org.junit.Test;
 

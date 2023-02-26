@@ -1,4 +1,4 @@
-package daye06_window_iframe_actionsClass;
+package day06_window_iframe_actionsClass;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -7,7 +7,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-import javax.swing.*;
 import java.util.Set;
 
 public class C05_actions extends TestBase {

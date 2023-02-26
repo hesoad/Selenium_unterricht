@@ -16,7 +16,7 @@ public class TestBase {
     }
     @After
     public void teardown(){
-        driver.quit();
+       // driver.quit();
     }
     public void bekle(int saniye){
         try {

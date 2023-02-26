@@ -1,4 +1,4 @@
-package daye02_driverManagerMethodlari;
+package day02_driverManagerMethodlari;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;

@@ -1,4 +1,4 @@
-package daye01_selenium_giris;
+package day01_selenium_giris;
 
 public class C01_projeyeSeleniumEkleme {
       /*

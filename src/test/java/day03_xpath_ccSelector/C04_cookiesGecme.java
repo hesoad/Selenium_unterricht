@@ -1,4 +1,4 @@
-package daye03_xpath_ccSelector;
+package day03_xpath_ccSelector;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
